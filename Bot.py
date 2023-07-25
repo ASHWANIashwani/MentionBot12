@@ -39,8 +39,8 @@ async def start(event):
         buttons=(
             [
                 Button.url(
-                    "☀︎︎️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ☀︎︎",
-                    "https://t.me/Alexa_MentionBot?startgroup=true",
+                    "☀︎︎️ OWNER ☀︎︎",
+                    "https://t.me/ASHWANI10?startgroup=true",
                 ),
             ],
             [
