@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️ ASHWANI MENTION ALL BOT ❤️</b></h1>
 
-<h4 align="center">Asad Alexa A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
+<h4 align="center">ASHWANI MENTION BOT, A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
 
 
