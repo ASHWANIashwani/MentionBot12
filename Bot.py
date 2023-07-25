@@ -1,7 +1,7 @@
 # A Powerful Music And Management Bot
 # Property Of Rocks Indian Largest Chatting Group
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali + Kattai Massom + Abhimanyu Singh
+# Rocks © @ASHWANI10 © Rocks
+# Owner ASHWANI
 
 
 import os, logging, asyncio
@@ -44,12 +44,12 @@ async def start(event):
                 ),
             ],
             [
-                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/Shayri_Music_Lovers"),
-                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/Alexa_BotUpdates"),
+                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/WEB_NET_CHATMASTI"),
+                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/ASHWANI10_OFFICIAL"),
             ],
             [
-                Button.url("☀︎︎ ʙʀᴏ ☀︎︎️️", "https://t.me/Kattai_massom"),
-                Button.url("☀︎︎ ᴋɪɴɢ ☀︎︎︎", "https://t.me/Jankari_Ki_Duniya"),
+                Button.url("☀︎︎ OWNER ☀︎︎️️", "https://t.me/ASHWANI10"),
+                Button.url("☀︎︎ STUDY ☀︎︎︎", "https://t.me/quizgroup10thclass"),
             ],
         ),
     )
@@ -66,8 +66,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Give_Me_Heart"),
-                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/JankariKiDuniya"),
+                Button.url("☀︎︎ OWNER", "https://t.me/ASHWANI10"),
+                Button.url("☀︎︎ CHAT ☀︎︎", "https://t.me/WEB_NET_CHATMASTI"),
             ]
         ),
     )
@@ -84,8 +84,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Give_Me_Heart"),
-                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/JankariKiDuniya"),
+                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/ASHWANI10"),
+                Button.url("CHAT ☀︎︎", "https://t.me/WEB_NET_CHATMASTI"),
             ]
         ),
     )
@@ -224,7 +224,7 @@ async def cancel_spam(event):
         return await event.respond("sᴛᴏᴘᴘᴇᴅ.")
 
 
-print(">> ASAD ALEXA WORKING <<")
+print(">> ASHWANI MENTION WORKING <<")
 client.run_until_disconnected()
 
 
